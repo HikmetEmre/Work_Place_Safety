@@ -119,7 +119,7 @@ if st.sidebar.button("Submit"):
    
 
 
-    st.table(pred)
+    st.table(results_df)
 
     if pred == 'Fatal':
         st.image("https://us.123rf.com/450wm/elartico/elartico1703/elartico170300026/73175348-danger-sign-with-skull-symbol.-deadly-danger-sign,-warning-sign..jpg")
