@@ -74,7 +74,7 @@ nlp_model = load('mnb11_model.pkl')
 input_df = [[ReportText]]
     
 ### For fit StandartScaler ###
-df=pd.read_csv("sampled_data.csv")
+df=pd.read_csv("model_df.csv")
 
 # Define X and y
 X = df.text
