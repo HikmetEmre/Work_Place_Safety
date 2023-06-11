@@ -77,16 +77,16 @@ def preprocess_data(text):
     preprocessed_text = text.lower()  # Example: Convert text to lowercase
     return preprocessed_text
 
-preprocessed_review = preprocess_data(Review)
+preprocessed_report = preprocess_data(ReportText)
 
-transformed_review = cv1.transform([preprocessed_review])
+transformed_report = cv1.transform([preprocessed_report])
 
 
 
 
     
 
-pred = nlp_model.predict(transformed_review)
+pred = nlp_model.predict(transformed_report)
 
 
 
