@@ -66,44 +66,27 @@ ReportText = st.sidebar.text_input("**:red[A text as Abstract Text of Accident R
 
 #---------------------------------------------------------------------------------------------------------------------
 
-### Recall Model ###
 from joblib import load
 
 nlp_model = load('mnb11_model.pkl')
+cv1 = load('cv1_model.pkl')
 
-input_df = [[ReportText]]
+# Function to preprocess the input data
+def preprocess_data(text):
+    # Apply any necessary preprocessing steps here
+    preprocessed_text = text.lower()  # Example: Convert text to lowercase
+    return preprocessed_text
+
+preprocessed_review = preprocess_data(Review)
+
+transformed_review = cv1.transform([preprocessed_review])
+
+
+
+
     
-### For fit StandartScaler ###
-df=pd.read_csv("model_df.csv")
 
-# Define X and y
-X = df.text
-
-y = df.level
-
-
-# Split the data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-
-# Scale the data
-from sklearn.feature_extraction.text import CountVectorizer
-cv1 = CountVectorizer(stop_words='english') ### Getting Rid Of Stop Words ###
-
-### Transforming Our Data with CountVectorizer ###
-X_train_cv1 = cv1.fit_transform(X_train)
-X_test_cv1  = cv1.transform(X_test)
-
-
-
-### Scale the new input data###
-
-
-
-
-input_df_scaled = cv1.transform(input_df)
-
-pred = nlp_model.predict(input_df_scaled)
-
+pred = nlp_model.predict(transformed_review)
 
 
 
