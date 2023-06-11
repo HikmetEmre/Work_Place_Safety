@@ -1,0 +1,506 @@
+,text,level,polarity,sentiment
+5,employe faint while sort crop in air-condit facili,Nonfatal,-0.5,Positive
+6,five employe killed; twelv employe are hospit in mu,Fatal,-0.2,Negative
+49,employe sustain cardiac arrest and die later,Fatal,-0.03333333333333333,Negative
+61,employe contact live electr part and is kill,Fatal,0.13636363636363635,Negative
+68,one employe killed; one injur in a dust explos,Fatal,-0.2,Negative
+73,employe is hospit for cardiac arrest,Fatal,-0.05,Negative
+83,employe faint and die from cardiac arrest,Fatal,-0.20000000000000004,Negative
+103,one employe killed; one employe hospit when both ar,Fatal,-0.2,Negative
+110,employe is caught by evapor vacuum and is kill,Fatal,-0.008333333333333333,Negative
+113,"employe becom ill, lose consciousness, and is kill",Fatal,-0.5,Negative
+128,a homeless person was found dead under a collaps street ca,Fatal,-0.2,Negative
+150,"employe fall down elev shaft, sustain fractur to ",Nonfatal,-0.15555555555555559,Positive
+152,employe is crush by hot tub mold and kill,Fatal,0.25,Negative
+161,employe is burn by acid releas dure tank clean,Nonfatal,0.3666666666666667,Positive
+169,employe amput fingertip while clean gear,Nonfatal,0.3666666666666667,Positive
+201,"one employe killed, one injur when their utv was struck b",Fatal,-0.2,Negative
+207,employe amput bodi part while clear jam from slitter,Nonfatal,0.10000000000000002,Positive
+211,employe is injur when struck in head by tie down strap,Nonfatal,-0.15555555555555559,Positive
+212,two employe suffer burn dure overspil of hot oil and t,Nonfatal,0.25,Positive
+216,employe is splash with clean solvent and receiv chem,Nonfatal,0.3666666666666667,Positive
+217,employe is splash with hot liquid and receiv first and ,Nonfatal,0.25,Positive
+222,employe fall from top of grain silo and is kill,Fatal,0.5,Negative
+225,employe fingertip is amput while clear a jam,Nonfatal,0.10000000000000002,Positive
+252,employe forearm is broken dure mill oper,Nonfatal,-0.4,Positive
+256,employe is burn by hot water dure tank transfer,Nonfatal,0.25,Positive
+272,employe amput finger when free extractor from inject,Nonfatal,0.4,Positive
+276,employe right pinki and index finger are amput durin,Nonfatal,0.2857142857142857,Positive
+286,employe finger are cut while clear a jam on a tabl s,Nonfatal,0.10000000000000002,Positive
+288,employe arm is broken by explos while cut with an ,Nonfatal,-0.4,Positive
+299,employe finger is amput while clean a quill puller,Nonfatal,0.3666666666666667,Positive
+301,employe is burn by hot oil from deep fryer,Nonfatal,0.125,Positive
+302,employe finger are amput while clean chute of law,Nonfatal,0.3666666666666667,Positive
+312,employe finger is partial amput when stack lumb,Nonfatal,-0.1,Positive
+323,employe finger and arm are fractur when clean insid,Nonfatal,0.3666666666666667,Positive
+324,employe hand is lacer and broken when clean insid,Nonfatal,-0.016666666666666663,Positive
+339,employe pinch finger in machin result in a partial am,Nonfatal,-0.1,Positive
+344,employe contact caustic addit and sustain chemic bur,Nonfatal,-0.4,Positive
+383,employe amput finger dure motor clean,Nonfatal,0.3666666666666667,Positive
+386,employe injur hand dure clean of conveyor,Nonfatal,0.3666666666666667,Positive
+388,employe fractur arm while clean lath,Nonfatal,0.3666666666666667,Positive
+389,demolit worker is shock by live wire in build,Nonfatal,0.13636363636363635,Positive
+404,employe wrist is broken when caught between conveyor belt,Nonfatal,-0.4,Positive
+424,one finger is amput and two other lacer dure oper,Nonfatal,-0.125,Positive
+426,employe is kill in explos while clean equip,Fatal,0.3666666666666667,Negative
+430,employe ii kill in explos while clean work area,Fatal,0.3666666666666667,Negative
+435,electrician repair light fixtur is electrocut,Nonfatal,0.4,Positive
+439,employe fall while walk down step and is killed.,Fatal,-0.1777777777777778,Negative
+452,employe is struck by trailer and sustain fractur to right,Nonfatal,0.2857142857142857,Positive
+463,employe fall 8 feet and break right leg,Nonfatal,0.2857142857142857,Positive
+468,employe is struck by fall tree and is killed.,Fatal,-0.2,Negative
+479,employe is burn when struck by hot hair care product fro,Nonfatal,0.25,Positive
+483,employe step in hot oil and sustain second degre burn o,Nonfatal,0.125,Positive
+508,employe fractur arm when caught between hold down arm and,Nonfatal,-0.15555555555555559,Positive
+515,employe fall out of bulldoz cabin and is killed.,Fatal,-0.2,Negative
+519,employe is kill when struck by fall materi from flat,Fatal,-0.025,Negative
+537,employe collaps and die due to appar medic conditio,Fatal,-0.125,Negative
+538,employe right index finger is amput after be caugh,Nonfatal,0.2857142857142857,Positive
+540,"one worker killed, second injur in block wall collaps",Fatal,-0.1,Negative
+541,"one employe is killed, anoth injured, when concret wall ",Fatal,-0.2,Negative
+549,employe finger is partial amput by a rotat airlo,Nonfatal,-0.1,Positive
+552,"five employe are killed, one injur when semi-clos rece",Fatal,-0.2,Negative
+561,employe fall from roof of cooler and sustain a broken bac,Nonfatal,-0.4,Positive
+566,employe fall from ladder and sustain a broken leg,Nonfatal,-0.4,Positive
+569,employe is kill while remov electr light fixtur,Fatal,0.4,Negative
+571,employe injur knee when flee from cow,Nonfatal,-0.13333333333333333,Positive
+577,employe fall from truck and sustain a broken leg,Nonfatal,-0.4,Positive
+580,employe is burn by hot water dure mainten train,Nonfatal,0.25,Positive
+588,employe fractur leg when trench partial collaps,Nonfatal,-0.1,Positive
+591,three employe receiv electr burn when a light pole ,Nonfatal,0.4,Positive
+602,employe fall from ladder and is treat for broken wrist,Nonfatal,-0.4,Positive
+607,employe fall into well and sustain minor injuri,Nonfatal,-0.05,Positive
+611,employe fall from elev platform and injur right shou,Nonfatal,0.2857142857142857,Positive
+627,employe receiv burn when spray with green liquor while,Nonfatal,-0.2,Positive
+633,employe clear cut wood from saw and lacer finger with ,Nonfatal,0.10000000000000002,Positive
+639,employe open hot water pipe and receiv second degre bur,Nonfatal,0.08333333333333333,Positive
+640,employe finger is amput while clean equip,Nonfatal,0.3666666666666667,Positive
+643,employe is clear jam and catch hand between roller,Nonfatal,0.10000000000000002,Positive
+670,employe faint and fall while drill hole on wall and i,Nonfatal,-0.5,Positive
+672,employe strike planer blade and partial amput two f,Nonfatal,-0.1,Positive
+673,employe catch hand in tire changer and amput right th,Nonfatal,0.2857142857142857,Positive
+675,employe is clear jam in equip and sustain fractur,Nonfatal,0.10000000000000002,Positive
+687,employe is clean machin and mangl hand,Nonfatal,0.3666666666666667,Positive
+688,employe is clean valv cart lacer middl two finger,Nonfatal,0.3666666666666667,Positive
+689,employe fall down stair and later die,Fatal,-0.07777777777777779,Negative
+690,employe is caught in gearbox and suffer a broken arm,Nonfatal,-0.4,Positive
+695,employe  amput finger when clear dust collector,Nonfatal,0.10000000000000002,Positive
+710,employe sustain broken rib when piston snap on bucket tr,Nonfatal,-0.4,Positive
+716,employe becom ill after exposur to exhaust from gas pow,Nonfatal,-0.5,Positive
+720,employe arm is broken when caught between materi stock ,Nonfatal,-0.4,Positive
+747,"one employe is killed, one injured, when struck by vehicl ",Fatal,-0.2,Negative
+750,employe sustain second degre burn from hot water,Nonfatal,0.125,Positive
+758,employe is found dead from heart attack,Fatal,-0.2,Negative
+767,employe is burn while clean hot ash,Nonfatal,0.30833333333333335,Positive
+781,employe sustain partial amput of finger in jam pr,Nonfatal,-0.1,Positive
+790,employe amput finger while clean machineri,Nonfatal,0.3666666666666667,Positive
+796,employe sustain partial amput to his fingertip,Nonfatal,-0.1,Positive
+817,employe report feel ill while sort farm product,Nonfatal,-0.5,Positive
+823,employe amput fingertip while clear jam on conveyor ,Nonfatal,0.10000000000000002,Positive
+831,employe suffer broken nose when struck by patient,Nonfatal,-0.4,Positive
+832,employe arm is crush while clear scrap glue from roll,Nonfatal,0.10000000000000002,Positive
+846,employe fall through cover sky light and sustain multi,Nonfatal,0.4,Positive
+864,employe is engulf by hot ash and suffer multipl burn,Nonfatal,0.25,Positive
+867,employe amput fingeri while clear tabl saw blade,Nonfatal,0.10000000000000002,Positive
+877,employe is burn when reboil releas scald hot water,Nonfatal,0.25,Positive
+905,employe is injur in fall when scaffold platform fails.,Nonfatal,-0.5,Positive
+924,employe right pinki finger contact chain sprocket and is,Nonfatal,0.2857142857142857,Positive
+926,"employe back, chest and arm are burn by hot water",Nonfatal,0.125,Positive
+928,employe finger right index finger contact rotari valv m,Nonfatal,0.2857142857142857,Positive
+951,employe slip on wet concret floor and break femur,Nonfatal,-0.1,Positive
+960,employe is injur when left hand is suction by vacuum eq,Nonfatal,-0.004166666666666667,Positive
+961,"employe amput fingers, among other injuries, on metal f",Nonfatal,-0.125,Positive
+972,employe guid wood on conveyor incur partial thumb amput,Nonfatal,-0.1,Positive
+988,employe fractur arm when clear press die,Nonfatal,0.10000000000000002,Positive
+1011,"employe trip on rug mat, fall and fractur right hip, la",Fatal,0.2857142857142857,Negative
+1012,worker handl contain of hot oil sustain burn,Nonfatal,0.25,Positive
+1019,employe faint and is injur,Nonfatal,-0.5,Positive
+1036,employe right foot is crush by a trailer tongu as a re,Nonfatal,0.2857142857142857,Positive
+1056,employe fall down elev shaft and fractur skull,Nonfatal,-0.15555555555555559,Positive
+1063,employe knee is infect while repair broken sewag pi,Nonfatal,-0.4,Positive
+1067,employe is spray with hot liquid and is burn,Nonfatal,0.25,Positive
+1071,employe die from unknown caus dure refineri partial tu,Fatal,-0.1,Negative
+1100,employe clean egg shoot has two finger amput,Nonfatal,0.3666666666666667,Positive
+1108,employe fall backward down stair and later die,Fatal,-0.07777777777777779,Negative
+1110,worker clear machin jam has two fingertip amput,Nonfatal,0.10000000000000002,Positive
+1133,employe receiv burn while tri to light burner on fire,Nonfatal,0.4,Positive
+1134,worker clear jam in roller conveyor sustain arm injuri,Nonfatal,0.10000000000000002,Positive
+1136,employe amput arm clean dough chunker machin,Nonfatal,0.3666666666666667,Positive
+1160,worker clean machin has thumb and three finger amput,Nonfatal,0.3666666666666667,Positive
+1177,employe direct flat bed truck is struck and kill,Fatal,0.037500000000000006,Negative
+1182,employe amput finger while clean an energ fryer,Nonfatal,0.3666666666666667,Positive
+1205,employe amput finger when clear jam from die machin,Nonfatal,0.10000000000000002,Positive
+1216,employe finger is amput dure die machin clean,Nonfatal,0.3666666666666667,Positive
+1243,employe thumb is amput while clear  jam in machin,Nonfatal,0.10000000000000002,Positive
+1250,employe sustain broken leg in trench collaps,Nonfatal,-0.4,Positive
+1260,employe is burn by hot grease.,Nonfatal,0.25,Positive
+1262,three employe repair down power line are shock,Nonfatal,-0.15555555555555559,Positive
+1263,employe finger are amput while clear debri from ,Nonfatal,0.10000000000000002,Positive
+1298,employe is injur when struck in the head by fall dead ,Nonfatal,-0.2,Positive
+1335,employe die while perform clean oper,Fatal,0.3666666666666667,Negative
+1350,employe suffer sever bodi damag due to air pressur rele,Nonfatal,-0.125,Positive
+1353,employe is run over by forklift and die later from a bold ,Fatal,0.16666666666666666,Negative
+1374,employe suffer a respiratori ill dure chemic relea,Nonfatal,-0.5,Positive
+1396,employe is burn by hot water while oper potato peel,Nonfatal,0.25,Positive
+1398,employe fall ill while take lunch break,Nonfatal,-0.5,Positive
+1399,employe slip on wet surfac and suffer broken hip,Nonfatal,-0.25,Positive
+1401,employe partial amput finger and cut sever other f,Nonfatal,-0.1125,Positive
+1407,employe injur hand while clear product jam from nip po,Nonfatal,0.10000000000000002,Positive
+1422,"employe hand contact static plate, and amput finger",Nonfatal,0.5,Positive
+1429,employe is caught between bucket truck basket and light pol,Nonfatal,0.4,Positive
+1436,employe suffer burn from hot pipe while recov metal,Nonfatal,0.25,Positive
+1437,employe is run over by forklift and suffer broken leg and ,Nonfatal,-0.4,Positive
+1449,employe receiv chemic burn from unknown substanc,Nonfatal,-0.1,Positive
+1456,employe partial amput finger on chees cutter,Nonfatal,-0.1,Positive
+1459,employe partial amput thumb on meat saw,Nonfatal,-0.1,Positive
+1464,employe partial amput thumb on meat band saw,Nonfatal,-0.1,Positive
+1472,employe fall from scaffold with multipl injuri and late,Fatal,-0.3,Negative
+1482,employe contact band saw blade and sustain partial amputa,Nonfatal,-0.1,Positive
+1484,employe finger is struck and partial amput by weldi,Nonfatal,-0.1,Positive
+1485,employe fall down stair near aircraft door and suffer mu,Nonfatal,-0.02777777777777779,Positive
+1486,employe leg are struck and burn by hot hydraul fluid,Nonfatal,0.125,Positive
+1490,employe sustain burn to hand from unknown sourc,Nonfatal,-0.1,Positive
+1492,employe finger is struck and partial amput by falli,Nonfatal,-0.1,Positive
+1493,employe break left ankl when granit counter top falls.,Nonfatal,0.25,Positive
+1498,employe faint and strike head on floor,Nonfatal,-0.5,Positive
+1511,employe partial amput finger in unguard chain and s,Nonfatal,-0.1,Positive
+1515,employe trip and fall and suffer serious eye bleed in,Nonfatal,-0.3333333333333333,Positive
+1528,employe fingertip are amput when clear jam from e,Nonfatal,0.10000000000000002,Positive
+1530,employe is burn when hot soup bag ruptur,Nonfatal,0.25,Positive
+1570,employe amput finger while clean energ roller,Nonfatal,0.3666666666666667,Positive
+1576,employe fall from an aerial lift and was killed.,Fatal,-0.2,Negative
+1580,employe injur hand while clean fish fillet machin,Nonfatal,0.3666666666666667,Positive
+1589,employe is caught in press brake and receiv partial amput,Nonfatal,-0.1,Positive
+1593,employe amput partial finger amput when caught in ,Nonfatal,-0.1,Positive
+1603,employe sleev is caught in chicken processor and fractur,Nonfatal,-0.6,Positive
+1622,"object fall on employe finger, sustain partial amputa",Nonfatal,-0.1,Positive
+1633,employe is found dead of unknown caus on oil tank,Fatal,-0.15000000000000002,Negative
+1638,employe injur arm while clean manufactur equip,Nonfatal,0.3666666666666667,Positive
+1639,employe cut off tip of right thumb while oper a band ,Nonfatal,0.2857142857142857,Positive
+1657,the employe is struck by fall tree and is killed.,Fatal,-0.2,Negative
+1660,employe expos to asbesto while clean up storm damag,Nonfatal,0.3666666666666667,Positive
+1661,employe is struck by fall tree branch and is killed.,Fatal,-0.2,Negative
+1664,employe arm is caught in machin and is broken,Nonfatal,-0.4,Positive
+1665,employe arm is caught in machin and is broken,Nonfatal,-0.4,Positive
+1678,employe drown for some unknown reason,Fatal,-0.1,Negative
+1698,employe #1 thumb partial amput in wood cut mach,Nonfatal,-0.1,Positive
+1700,employe tip of right ring finger is amput by conveyor,Nonfatal,0.2857142857142857,Positive
+1710,employe amput toe while oper a high pressur water,Nonfatal,0.16,Positive
+1713,employe amput right middl finger tip on a time belt,Nonfatal,0.2857142857142857,Positive
+1718,employe fall from elev and break his right lower leg,Nonfatal,0.2857142857142857,Positive
+1724,employe fall down elev shaft and sustain multipl fra,Nonfatal,-0.15555555555555559,Positive
+1731,employe right foot is run over by a standup forklift and ,Nonfatal,0.2857142857142857,Positive
+1733,employe is kill while clean tank that contain alkyl k,Fatal,0.3666666666666667,Negative
+1735,employe finger is caught in dough machin and is broken,Nonfatal,-0.4,Positive
+1736,employe fall into tank of hot water and is sever burn,Nonfatal,0.25,Positive
+1737,three employe are burn when pour molten stainless ste,Nonfatal,0.2,Positive
+1742,employe hand is lacer by auger while clean machin,Nonfatal,0.3666666666666667,Positive
+1752,employe fail to lockout equip and amput finger,Nonfatal,-0.5,Positive
+1764,employe fall from green hous roof and is injur,Nonfatal,-0.2,Positive
+1779,employe is kill in fall from first floor,Fatal,0.25,Negative
+1780,employe is kill in fall while window clean,Fatal,0.3666666666666667,Negative
+1783,employe faint and fractur ankl,Nonfatal,-0.5,Positive
+1804,employe is kill in fall when scaffold fail,Fatal,-0.5,Negative
+1806,employe is scald by hot soup,Nonfatal,0.25,Positive
+1824,employe injur ankl while free up jam conveyor,Nonfatal,0.4,Positive
+1828,employe fingertip are amput clean dough sheeter m,Nonfatal,0.3666666666666667,Positive
+1859,employe is hospit after suffer cardiac arrest,Nonfatal,-0.05,Positive
+1865,employe partial amput finger while posit wood s,Nonfatal,-0.1,Positive
+1867,employe fall from flat bed truck and fractur ankl,Nonfatal,-0.025,Positive
+1879,employe slip on wet paint and injur head,Nonfatal,-0.1,Positive
+1886,employe is kill when struck by metal from explod elect,Fatal,0.8,Negative
+1893,employe fractur sever finger while clear snowblow,Nonfatal,0.10000000000000002,Positive
+1895,employe struck by excav bucket is killed.,Fatal,-0.2,Negative
+1903,employe receiv electr burn while remov light stra,Nonfatal,0.4,Positive
+1923,employe fall down stair and is burn from spill hot oi,Nonfatal,0.04722222222222221,Positive
+1928,employee? fingertip is amput dure print press main,Nonfatal,0.16666666666666666,Positive
+1942,employe thumb is near shear off by hing devic bein,Nonfatal,0.1,Positive
+1948,employe is run over by dozer and killed.,Fatal,-0.2,Negative
+1951,employe suffer broken leg when run over by forklift,Nonfatal,-0.4,Positive
+1955,employe suffer burn while clear line blockag,Nonfatal,0.10000000000000002,Positive
+1957,employe is struck by car in work zone and killed.,Fatal,-0.2,Negative
+1963,employe is spray by hot water from a hot water set and su,Nonfatal,0.25,Positive
+1982,partial amput to right foot while unclog a snow blo,Nonfatal,0.09285714285714285,Positive
+1999,"employe is run over by forklift, partial amput his f",Nonfatal,-0.1,Positive
+2015,employe near power line is shock and burn by electr a,Nonfatal,0.1,Positive
+2018,"worker fall from ladder, incur rib fractur and other inj",Nonfatal,-0.125,Positive
+2024,employe sustain broken foot when pin between two fork,Nonfatal,-0.4,Positive
+2030,employe injur finger while clean a wood chipper,Nonfatal,0.3666666666666667,Positive
+2033,employe sustain broken rib and intern bleed from fal,Nonfatal,-0.4,Positive
+2054,employe fall and receiv fractur skull and other injuri,Nonfatal,-0.125,Positive
+2055,employe fall and receiv fractur skull and other injuri,Nonfatal,-0.125,Positive
+2059,employe is caught in floor sweeper and sustain partial fin,Nonfatal,-0.1,Positive
+2061,"employe on ladder instal fixtur is shocked, falls, and",Nonfatal,-0.7,Positive
+2064,employe is struck by forklift and sustain broken leg,Nonfatal,-0.4,Positive
+2065,employe partial amput thumb with chop saw,Nonfatal,-0.1,Positive
+2078,construct foreman direct rig has two finger amputa,Nonfatal,0.1,Positive
+2099,employe is caught in machin and receiv a partial finger ,Nonfatal,-0.1,Positive
+2102,employe is splash by hot water and is burn,Nonfatal,0.25,Positive
+2103,employe catch finger in press and receiv partial finger,Nonfatal,-0.1,Positive
+2115,employe fall down stair and tear tendon in leg,Nonfatal,-0.15555555555555559,Positive
+2117,employe is cut by saw and receiv partial finger amputatio,Nonfatal,-0.1,Positive
+2118,employe die while clean insid of barrel frack tank,Fatal,0.3666666666666667,Negative
+2159,employe amput hand while clean dice machin,Nonfatal,0.3666666666666667,Positive
+2160,"employe fall from ladder injur right eye, left wrist an",Nonfatal,0.14285714285714285,Positive
+2163,worker oper meat slicer incur partial finger amputatio,Nonfatal,-0.1,Positive
+2173,employe fall from a floor joist and receiv minor injuri,Nonfatal,-0.05,Positive
+2201,employe attempt to clear jam amput finger,Nonfatal,0.10000000000000002,Positive
+2205,employe is struck and kill by a fall tree top,Fatal,0.5,Negative
+2217,employe clean machin has finger amput,Nonfatal,0.3666666666666667,Positive
+2219,employe clean spill chemic is asphyxi by toxic ,Nonfatal,0.3666666666666667,Positive
+2245,employe right hand is crush in power press,Nonfatal,0.2857142857142857,Positive
+2255,employe fall from roll stair tower when light head (e,Nonfatal,0.4,Positive
+2258,employe partial amput finger with meat saw,Nonfatal,-0.1,Positive
+2278,employe fingertip is amput while clean run mac,Nonfatal,0.3666666666666667,Positive
+2289,employe is burn by hot water spill,Nonfatal,0.25,Positive
+2296,employe entangl within rotat scrapper and is killed.,Fatal,-0.2,Negative
+2303,employe pinch finger then faint strike his head result,Nonfatal,-0.5,Positive
+2306,employe receiv concuss fall down stair,Nonfatal,-0.15555555555555559,Positive
+2311,employe is burn when spray with hot liquid,Nonfatal,0.25,Positive
+2315,employe crush by granit slab and is killed.,Fatal,-0.2,Negative
+2319,two employe hospit after be spray by caustic bl,Nonfatal,-0.4,Positive
+2352,two employe lose conscious from carbon monoxid poison,Fatal,0.1,Negative
+2359,employe insid work truck is found dead,Fatal,-0.2,Negative
+2370,employe is caught in a splicer and receiv partial amputat,Nonfatal,-0.1,Positive
+2379,employe fall through skylight and is killed.,Fatal,-0.2,Negative
+2387,employe is kill when overcom by clean chemic vapor,Fatal,0.3666666666666667,Negative
+2389,employe is struck and kill by car while direct traffic,Fatal,0.1,Negative
+2390,employe kill when run over by a rough terrain forklift,Fatal,-0.1,Negative
+2451,an employe collaps and die from unknown caus,Fatal,-0.1,Negative
+2517,employe is killed; anoth injur when struck by fall c,Fatal,-0.2,Negative
+2522,employe amput fingertip while clear jam from tape ma,Nonfatal,0.10000000000000002,Positive
+2526,employe is pin as tree trunk slide down slope,Fatal,-0.15555555555555559,Negative
+2556,employe found dead in truck from unknown caus,Fatal,-0.15000000000000002,Negative
+2588,employe is struck and kill by flat bed trailer,Nonfatal,-0.025,Positive
+2629,employe work at a hospit feel sick and die the next,Fatal,-0.35714285714285715,Negative
+2642,employe fall down a wastewat well and is killed.,Fatal,-0.1777777777777778,Negative
+2648,employe drown while clean underneath a boat,Fatal,0.3666666666666667,Negative
+2649,employe contact a live bus bar and was electrocuted.,Fatal,0.13636363636363635,Negative
+2663,employe die from cardiac arrest,Fatal,-0.05,Negative
+2666,employe is kill when trampl by a cow,Fatal,-0.13333333333333333,Negative
+2669,employe found dead in a front end loader,Fatal,-0.2,Negative
+2676,employe is found dead on floor of scissor lift,Fatal,-0.2,Negative
+2683,employe is kill in fall from a roof top through a skyligh,Fatal,0.5,Negative
+2691,"employe is electrocuted, two other receiv electr shock ",Fatal,-0.125,Negative
+2696,employe die of unknown caus in a hotel room.,Fatal,-0.1,Negative
+2707,employe die of unknown caus at work.,Fatal,-0.1,Negative
+2715,employe is found dead and buri by fill dirt at residentia,Fatal,-0.2,Negative
+2720,employe fall from top of walk-in cooler and is kill,Fatal,0.5,Negative
+2730,employe spill caustic liquid and burn leg,Nonfatal,-0.4,Positive
+2742,employe is electrocut by contact with live bus bar.,Fatal,0.13636363636363635,Negative
+2747,employe is struck and kill by drunk driver on work site,Fatal,-0.5,Negative
+2761,"one employe is killed, anoth injured, in trench collaps",Fatal,-0.2,Negative
+2780,employe is electrocut and kill by fluoresc light fix,Fatal,0.4,Negative
+2796,employe fall in attic and die from broken neck,Fatal,-0.4,Negative
+2816,employe is trap under bundl and kill due to suffocat,Fatal,-0.125,Negative
+2834,employe finger is crush and sustain partial amput,Nonfatal,-0.1,Positive
+2847,employe fall from top of truck cab and is kill,Fatal,0.5,Negative
+2848,employe is struck and kill by a rough terrain forklift,Fatal,-0.1,Negative
+2858,employe die of heart attack while torch down roof,Fatal,-0.15555555555555559,Negative
+2859,employe fall through the roof of a cow barn and is kill,Fatal,-0.13333333333333333,Negative
+2878,"employe found dead, non-work relat",Fatal,-0.2,Negative
+2880,employe right thumb is amput while oper a fixtur ,Nonfatal,0.2857142857142857,Positive
+2886,employe fall through skylight and is killed.,Fatal,-0.2,Negative
+2889,employe fall of the boat into cold water and kill,Fatal,-0.6,Negative
+2899,employe clean pool shock and drown,Fatal,0.3666666666666667,Negative
+2901,"employe left index finger (partially) amputated, after ri",Nonfatal,-0.05,Positive
+2910,employe is struck by spin sucker rod and is killed.,Fatal,-0.25,Negative
+2912,employe die of heart attack on hot day.,Fatal,0.25,Negative
+2922,employe fall down shaft and is kill,Fatal,-0.15555555555555559,Negative
+2938,employe die from cardiac arrest,Fatal,-0.05,Negative
+2946,employe is shock by live wire later die,Fatal,0.06818181818181818,Negative
+2947,employe is cut by meat saw and partial amput thumb,Nonfatal,-0.1,Positive
+2949,"employe fail hose, collaps and break lower leg and a",Nonfatal,-0.5,Positive
+2959,employe found dead use a cherri picker,Fatal,-0.2,Negative
+2961,employe fall down stair and is fatal injur,Fatal,-0.15555555555555559,Negative
+3000,employe die from heat relat ill,Fatal,-0.5,Negative
+3001,employe die sudden while clean bar area,Fatal,0.18333333333333335,Negative
+3005,employe is kill in fall from top of water tower,Fatal,0.5,Negative
+3009,employe is electrocut while instal new air conditioni,Fatal,0.13636363636363635,Negative
+3010,employe is electrocut while clear bridg roadway,Fatal,0.10000000000000002,Negative
+3018,employe is killed; second employe injur in motorcycl ac,Fatal,-0.1,Negative
+3025,employe lose conscious and drown in manur pit,Fatal,0.1,Negative
+3030,employe is electrocut while remov ballast from a live ,Fatal,0.13636363636363635,Negative
+3045,employe fall down elev shaft and is kill,Fatal,-0.15555555555555559,Negative
+3071,employe becom ill and die,Fatal,-0.5,Negative
+3072,employe contact an overhead distribut line and is elect,Fatal,0.8,Negative
+3086,employe die from cardiac arrest while work in vineyard,Fatal,-0.05,Negative
+3087,"one employe is crush and killed, anoth injured, when wa",Fatal,-0.2,Negative
+3113,employe is caught between two truck and is killed.,Fatal,-0.2,Negative
+3118,"one employe is killed, one injured, in trench collaps",Fatal,-0.2,Negative
+3156,employe is found dead,Fatal,-0.2,Negative
+3162,employe repair a light fixtur is kill,Fatal,0.4,Negative
+3164,employe die from cardiac arrest,Fatal,-0.05,Negative
+3178,employe die due to heart attack,Fatal,-0.125,Negative
+3180,employe strike a tree and is killed.,Fatal,-0.2,Negative
+3192,employe make direct contact with energ part and is ki,Fatal,0.1,Negative
+3194,employe is found dead after sustain heart attack,Fatal,-0.2,Negative
+3195,employe make direct contact with energ conductor and i,Fatal,0.1,Negative
+3196,employe goe into cardiac arrest and die after be stung,Fatal,-0.05,Negative
+3205,employe make direct contact with energ conductor and i,Fatal,0.1,Negative
+3210,employe is kill from direct contact with energ part,Fatal,0.1,Negative
+3221,farm labor die of cardiac arrest.,Fatal,-0.05,Negative
+3226,truck driver for energi explor firm is kill when truc,Fatal,-0.2,Negative
+3230,worker die of unknown caus,Fatal,-0.1,Negative
+3251,employe fall from elev and is killed.,Fatal,-0.2,Negative
+3252,employe fall from elev and is killed.,Fatal,-0.2,Negative
+3253,employe expos to high heat while work on roof later di,Fatal,0.08,Negative
+3254,employe electrocut while servic taxiway edg light and,Fatal,0.4,Negative
+3255,two employe fall when an articul boom fail and are ,Fatal,-0.5,Negative
+3256,employe fell while climb stair and was killed.,Fatal,-0.2,Negative
+3259,employe crush by die cut machin and is killed.,Fatal,-0.2,Negative
+3266,"employe contact high voltag power line, is electrocuted, ",Fatal,0.16,Negative
+3267,employe fall from height and is killed.,Fatal,-0.2,Negative
+3272,employe fall when a hydraul lift fail and is killed.,Fatal,-0.35,Negative
+3274,employe is struck by log and is killed.,Fatal,-0.2,Negative
+3277,employe clean car is crush between two vehicl and i,Fatal,0.3666666666666667,Negative
+3279,employe is struck by track hoe bucket and is killed.,Fatal,-0.2,Negative
+3280,employe fall from ladder and is killed.,Fatal,-0.2,Negative
+3281,employe collaps and is kill when clear debri from r,Fatal,0.10000000000000002,Negative
+3283,employe is crush in a mold machin and is killed.,Fatal,-0.2,Negative
+3284,employe is kill from a cardiac arrest.,Fatal,-0.05,Negative
+3287,employe make contact with a live wire and is kill,Fatal,0.13636363636363635,Negative
+3295,employe collaps and die from unknown causes.,Fatal,-0.1,Negative
+3296,employe fall from ladder and is killed.,Fatal,-0.2,Negative
+3298,firefight hike with full ppe and tool suffer heat exha,Nonfatal,0.35,Positive
+3304,employe fall from scaffold and is killed.,Fatal,-0.2,Negative
+3311,employe is electrocut by high voltag power line,Fatal,0.16,Negative
+3319,"one employe is killed, anoth injur when atv lose contr",Fatal,-0.2,Negative
+3320,employe is kill when larg cool fan fall on him while,Fatal,0.35,Negative
+3333,employe caught in trench collaps and is killed.,Fatal,-0.2,Negative
+3357,employe is kill in fall from hot air balloon.,Fatal,0.25,Negative
+3359,employe is found dead of unknown caus at home.,Fatal,-0.15000000000000002,Negative
+3379,one employe drown and two other treat at hospit,Fatal,-0.125,Negative
+3400,employe fall from roof and is killed.,Fatal,-0.2,Negative
+3417,employe is found dead in a chair,Fatal,-0.2,Negative
+3438,employe is electrocut after contact un-insul elect,Fatal,0.8,Negative
+3443,employe is kill in fire due to flammabl vapor from crud,Fatal,-0.125,Negative
+3453,employe fall down stair and is kill by injuri to head,Fatal,-0.15555555555555559,Negative
+3457,worker take down cellular tower is electrocut when boom ,Fatal,-0.15555555555555559,Negative
+3464,employe fall from cell tower and is killed.,Fatal,-0.2,Negative
+3501,employe is electrocut when a tree limb contact a high vo,Fatal,0.16,Negative
+3502,employe fall through roof and is killed.,Fatal,-0.2,Negative
+3513,employe fall through roof ridg cap and is killed.,Fatal,-0.2,Negative
+3524,employe fall 30 feet from window ledg and is killed.,Fatal,-0.2,Negative
+3526,employe found dead due atherosclerot cardiovascular disea,Fatal,-0.1625,Negative
+3558,employe found dead on floor of restroom,Fatal,-0.2,Negative
+3560,employe found dead on floor,Fatal,-0.2,Negative
+3563,worker die from cardiac arrest,Fatal,-0.05,Negative
+3568,employe die from a heart attack due to congest heart fa,Fatal,-0.125,Negative
+3610,employe kill from direct contact with energ conductor,Fatal,0.1,Negative
+3613,"one employe killed, anoth injur by precast concret pan",Fatal,-0.2,Negative
+3615,worker is caught and kill by rotat part while clean,Fatal,0.3666666666666667,Negative
+3616,"one employe is killed, anoth injur while hitch a tra",Fatal,-0.2,Negative
+3618,worker paint a car is found dead.,Fatal,-0.2,Negative
+3619,employe is struck and  kill when pipelin hot tap instal,Fatal,0.25,Negative
+3631,employe struck by broken glass and die from injuri,Fatal,-0.4,Negative
+3633,employe die from cardiac arrest in bunk room,Fatal,-0.05,Negative
+3655,worker crush by car at counti fair ride.,Fatal,0.7,Negative
+3660,"one employe is killed, three employe are injur in a bri",Fatal,-0.2,Negative
+3667,employe is caught by move conveyor belt and killed.,Fatal,-0.2,Negative
+3668,employe is pin between trailer and killed.,Fatal,-0.2,Negative
+3672,worker sleep between pallet and wall is killed.,Fatal,-0.2,Negative
+3683,employe die of cardiac arrest while work on roof.,Fatal,-0.05,Negative
+3685,employe is kill in fall down stair,Fatal,-0.15555555555555559,Negative
+3688,employe fall from top ramp of transport trailer and is kil,Fatal,0.5,Negative
+3707,employe is found dead of natur caus in boat.,Fatal,-0.2,Negative
+3735,logger is struck and kill by fall tree top,Fatal,0.5,Negative
+3752,worker fall from the top of a servic elev car and is k,Fatal,0.5,Negative
+3754,employe fall down stair and is kill,Fatal,-0.15555555555555559,Negative
+3782,employe is struck in head by hook and is killed.,Fatal,-0.2,Negative
+3783,employe fall down a sewer pipe and is kill,Fatal,-0.15555555555555559,Negative
+3791,painter found unrespons and determin to have been elect,Fatal,0.8,Negative
+3796,one employe kill one injur due to argon gas,Fatal,-0.125,Negative
+3797,one employe kill one injur due to argon gas,Fatal,-0.125,Negative
+3815,employe fall from trailer and is killed.,Fatal,-0.2,Negative
+3818,employe is crush by vacuum tank and kill,Fatal,-0.008333333333333333,Negative
+3824,"one employe is killed, three injured, when atv overturn",Fatal,-0.2,Negative
+3831,employe enter vessel and is killed.,Fatal,-0.2,Negative
+3844,roofer fall from roof and is killed.,Fatal,-0.2,Negative
+3870,employe collaps from cardiac arrest,Fatal,-0.05,Negative
+3872,employe is kill when crush while clean a hay bailer/,Fatal,0.3666666666666667,Negative
+3904,employe collaps due to a heart attack,Fatal,-0.125,Negative
+3919,employe make direct contact with energ conductor and i,Fatal,0.1,Negative
+3921,employe caught in elev door and killed.,Fatal,-0.2,Negative
+3925,employe die of unknown natur caus,Fatal,-0.1,Negative
+3943,employe die from cardiac arrest,Fatal,-0.05,Negative
+3953,employe found dead insid a trailer,Fatal,-0.2,Negative
+3980,employe fall off a stacker conveyor and is killed.,Fatal,-0.2,Negative
+3997,employe is burn by hot water and is kill,Fatal,0.25,Negative
+4026,employe is kill when struck-bi an excav and partial,Fatal,-0.1,Negative
+4041,employe fall through sky light and is kill,Fatal,0.4,Negative
+4046,employe lose conscious and die while pack move t,Fatal,0.1,Negative
+4053,employe drown while clean custom pool,Fatal,0.3666666666666667,Negative
+4054,employe work alon found dead from unknown caus,Fatal,-0.15000000000000002,Negative
+4056,employe is found dead in park lot,Fatal,-0.2,Negative
+4063,employe is struck by pipe and killed.,Fatal,-0.2,Negative
+4084,employe is overcom by fume and pronounc dead,Fatal,-0.2,Negative
+4098,employe is crush while free jam in machin,Fatal,0.4,Negative
+4104,employe is found unconsci at top of basement ramp,Fatal,0.5,Negative
+4108,employe drive down embank and is kill,Fatal,-0.15555555555555559,Negative
+4134,roofer is electrocut when contact high voltag overhead,Fatal,0.16,Negative
+4138,employe found unrespons at tower base,Fatal,-0.8,Negative
+4152,employe is electrocut while trim tree near power lin,Fatal,0.1,Negative
+4153,employe is kill while clean storag tank from lack of ,Fatal,0.3666666666666667,Negative
+4255,"worker dies, caus unknown",Fatal,-0.1,Negative
+4264,worker die of unknown injuri,Fatal,-0.1,Negative
+4265,worker instal side fall from scaffold and is killed.,Fatal,-0.2,Negative
+4317,employe feel ill and later die,Fatal,-0.25,Negative
+4342,employe fall down a chimney and is kill,Fatal,-0.15555555555555559,Negative
+4360,employe fall from ladder while chang light bulb and lat,Fatal,0.4,Negative
+4380,one employe killed; two employe are asphyxi insid tan,Fatal,-0.2,Negative
+4389,employe is electrocut while clean tabl saw,Fatal,0.3666666666666667,Negative
+4416,electr shock - direct contact with energ parts. employ,Fatal,0.1,Negative
+4441,logger is struck and kill by snag tree top,Fatal,0.5,Negative
+4443,employe fall from 10 foot high wall and is killed.,Nonfatal,-0.020000000000000004,Positive
+4447,employe is kill in fall while trim or cut down tr,Fatal,-0.15555555555555559,Negative
+4449,employe is electrocut while instal light fixtur,Fatal,0.4,Negative
+4452,worker fall down stair and is kill,Fatal,-0.15555555555555559,Negative
+4454,employe die from non-work relat ill,Nonfatal,-0.5,Positive
+4456,worker lose conscious while pick lemon and later di,Fatal,0.05,Negative
+4476,employe contact a live wire and is electrocut,Fatal,0.13636363636363635,Negative
+4497,employe die from cardiac arrest,Fatal,-0.05,Negative
+4503,employe is kill from unknown sourc,Fatal,-0.1,Negative
+4515,employe is electrocut by high voltag wire,Fatal,0.16,Negative
+4521,employe clean window fall from roof and is kill,Fatal,0.3666666666666667,Negative
+4525,employe was found in his truck dead,Fatal,-0.2,Negative
+4529,employe die from unknown caus,Fatal,-0.1,Negative
+4530,employe found dead under trailer truck,Fatal,-0.2,Negative
+4537,employe is found dead on the floor,Fatal,-0.2,Negative
+4546,employe is electrocut while remov recess light,Fatal,0.4,Negative
+4550,employe is electrocut by drop light while dig hole fo,Fatal,0.4,Negative
+4570,one employe is electrocut and two serious injur when ,Fatal,-0.3333333333333333,Negative
+4609,employe is electrocut when flat bed trailer contact over,Fatal,-0.025,Negative
+4614,employe suffer cardiac arrest and die,Fatal,-0.05,Negative
+4628,employe fall from top of build and is kill,Fatal,0.5,Negative
+4635,employe die from heat-rel ill while trim tree,Fatal,-0.5,Negative
+4644,employe kill in worksit due to heat stress,Fatal,-0.125,Negative
+4655,five employe becom ill after exposur to gas from chlorin,Fatal,-0.5,Negative
+4665,electrician is electrocut after contact with live wire,Fatal,0.13636363636363635,Negative
+4673,employe is kill due to traumat asphyxia,Fatal,-0.125,Negative
+4676,employe is kill while cut live wire,Fatal,0.13636363636363635,Negative
+4678,employe is kill when struck by top loader,Fatal,0.5,Negative
+4681,employe kill due to cardiac arrest,Fatal,-0.075,Negative
+4688,"employe pass out, fall and is killed.",Fatal,-0.2,Negative
+4693,employe is kill when expos to hot weather,Fatal,0.25,Negative
+4703,employe fall from 4th floor apart complex and is kill,Fatal,-0.3,Negative
+4705,employe is kill when struck by unknown object,Fatal,-0.1,Negative
+4715,employe is struck by unknown object and is kill,Fatal,-0.1,Negative
+4718,"employe found dead, due to non-work relat caus",Fatal,-0.1625,Negative
+4746,employe is electrocut while strip live wire,Fatal,0.13636363636363635,Negative
+4747,"employe slips, hit head on wet concret floor, and is kill",Fatal,-0.1,Negative
+4752,employe is kill from heat stress while clean work site,Fatal,0.3666666666666667,Negative
+4759,worker is crush and kill by fall pipe fit,Fatal,0.4,Negative
+4761,employe is overcom by heat while instal new floor,Fatal,0.13636363636363635,Negative
+4764,employe fall from ladder while clean gutter and die,Fatal,0.3666666666666667,Negative
+4797,employe faint and later die from blood clot in heart,Fatal,-0.25,Negative
+4802,employe is partial crush by fall skid loader,Fatal,-0.1,Negative
+4807,employe is electrocut while chang light bulb in swimmi,Fatal,0.4,Negative
+4808,employe is kill in fall dure chicken hous construct,Fatal,-0.6,Negative
+4811,employe fall from scaffold and is killed.,Fatal,-0.2,Negative
+4816,employe is kill when trench collaps on top,Fatal,0.5,Negative
+4822,employe is kill when overcom by unknown substanc,Fatal,-0.1,Negative
+4823,employe die from asphyxi due to kerosen vapor in ra,Fatal,-0.125,Negative
+4828,employe fall down stairwel and is kill,Fatal,-0.15555555555555559,Negative
+4831,employe is burn by hot greas and die,Fatal,0.25,Negative
+4843,"employe fall from elevation, sustain head trauma and late",Fatal,-0.3,Negative
