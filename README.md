@@ -1,6 +1,6 @@
 # Work Place Safety: NLP and EDA on OSHA Accident Reports
 
-![Project banner](model_robot.jpg)
+![Project banner](osha_banner.svg)
 
 ## Project Aim
 
